@@ -85,7 +85,10 @@
 ## JavaScript基础
 
 ### 介绍JS的基本数据类型
-string number boolean undefined null
+- 基本数据类型：String Number Boolean Undefined Null，es6新增(BigInt, Symbol)
+- typeof：    string number boolean undefined object bigint， symbol
+- 对象类型：Object
+
 
 ### 介绍JS有哪些内置对象
 - **数据封装类对象**: String Number Boolean Array Object
